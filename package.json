@@ -1,0 +1,11 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "Compare Node and Express on Handling HTTP requests",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soheila A",
+  "license": "MIT"
+}
